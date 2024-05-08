@@ -1,6 +1,8 @@
 # Shoping-cart
 Its an web app that uses a database to add and delete items in your shoping list seamlessly
 
+TRY THE APP : https://web-cart.netlify.app/
+
 ## Features
 
 - **Add Items**: Users can add items to their shopping list.
